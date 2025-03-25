@@ -6,6 +6,8 @@
 # - rclone installed and configured
 # - inotify-tools installed (sudo apt-get install inotify-tools)
 #
+# Attention!: bisync is in beta 
+#
 # Set the path of the local folder to monitor
 LOCAL_DIR="/home/marco/ProtonDrive"
 # Set the remote (remote_name:remote_folder, e.g., "google_drive:backup")
